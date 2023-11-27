@@ -18,3 +18,8 @@ Speech Analysis & Feature Extraction
 ## Homework 3
 
 [Taiwanese Speech Recognition using Kaldi Toolkit](https://www.kaggle.com/competitions/taiwanese-asr-kaldi)
+
+## Homework 4
+
+[Taiwanese Speech Recognition using ESPnet Toolkit](https://www.kaggle.com/competitions/speech-signal-processingnycu-2023-nycu-espnet)
+
