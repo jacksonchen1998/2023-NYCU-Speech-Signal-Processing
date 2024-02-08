@@ -23,3 +23,6 @@ Speech Analysis & Feature Extraction
 
 [Taiwanese Speech Recognition using ESPnet Toolkit](https://www.kaggle.com/competitions/speech-signal-processingnycu-2023-nycu-espnet)
 
+## Homework 5
+
+[Taiwanese Speech Synthesis using VITS2](https://www.kaggle.com/competitions/taiwanese-speech-synthesis-using-vits2)
